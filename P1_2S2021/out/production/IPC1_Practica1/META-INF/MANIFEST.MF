@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: Practica1_IPC1_2S2021.EscalerasMatematicas
-
