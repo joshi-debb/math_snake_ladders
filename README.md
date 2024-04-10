@@ -14,10 +14,13 @@ This Java application is a combination of the classic Snake and Ladders game wit
 ## How to Play
 
 1. **Menu**: Upon starting the game, players are presented with a menu where they can choose to start a new game, resume a game, or exit.
-2. **Game Board**: The game board is displayed with the player's current position represented by '@' and penalty squares represented by '#'.
-3. **Movement**: Players roll a die to determine their movement across the board. They can choose to roll the die or return to the main menu.
-4. **Penalties**: Landing on certain squares triggers mathematical penalties. The player must solve these penalties to continue.
-5. **Winning**: The game ends when a player reaches the final square on the board.
+  
+![image](https://github.com/joshi-debb/math_snake_ladders/assets/87725718/ee4a7584-d8a4-4262-8ccf-e2ef5001c97f)
+
+4. **Game Board**: The game board is displayed with the player's current position represented by '@' and penalty squares represented by '#'.
+5. **Movement**: Players roll a die to determine their movement across the board. They can choose to roll the die or return to the main menu.
+6. **Penalties**: Landing on certain squares triggers mathematical penalties. The player must solve these penalties to continue.
+7. **Winning**: The game ends when a player reaches the final square on the board.
 
 ## Usage
 
